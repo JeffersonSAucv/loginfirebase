@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "828450463772",
+    "firebase_url": "https://fir-socialnetworkslogin.firebaseio.com",
+    "project_id": "fir-socialnetworkslogin",
+    "storage_bucket": "fir-socialnetworkslogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828450463772:android:dfc0a7099fb29927473fd9",
+        "android_client_info": {
+          "package_name": "com.jefferson.loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828450463772-9ahaa77uotao2s614f3q2n918vdia580.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jefferson.loginfirebase",
+            "certificate_hash": "b3efc95e319d81cee91a39d7c714f29b0ae8f1ae"
+          }
+        },
+        {
+          "client_id": "828450463772-e9un2g78panfinhomu92jfu7ppfpf22i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxBz1hWPPqb49upeoVIP5Wgj5XmD0GhLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828450463772-e9un2g78panfinhomu92jfu7ppfpf22i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
